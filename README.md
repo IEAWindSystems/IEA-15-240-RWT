@@ -3,8 +3,8 @@
 # IEA-15-240-RWT v1.1
 This repository contains the model data for the 15-MW offshore reference turbine developed within IEA Wind Task 37.
 
-The documentation for the turbine is accessible here: https://www.nrel.gov/docs/fy20osti/75698.pdf
-and the semisubmersible floating support structure is documented here: https://www.nrel.gov/docs/fy20osti/76773.pdf
+The documentation for the turbine is accessible here: https://docs.nlr.gov/docs/fy20osti/75698.pdf
+and the semisubmersible floating support structure is documented here: https://docs.nlr.gov/docs/fy20osti/76773.pdf
 
 Data in this repository includes:
 * Documentation, including tabular data used in the figures from the technical report
